@@ -1,0 +1,8 @@
+{
+  "archetype": "aggressive",
+  "calibration_declared": {
+    "timePosture": "balanced",
+    "searchPosture": "balanced"
+  },
+  "notes": "Minified build of fireturd (~104KB). Pure size reduction via terser; no logic changes. Knob block (@RAZOR_X_5S_KNOBS_START/END) preserved verbatim."
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "fighter",
+  "name": "fireturd_Lite",
+  "version": "1.0.0",
+  "author": "jordan",
+  "entry": "fighter.js",
+  "profile": "profile.json",
+  "calibration": "calibration.json",
+  "parent": "fireturd",
+  "provides": {
+    "archetype": "aggressive",
+    "metrics": ["totalMs"],
+    "knobSurfaces": []
+  },
+  "status": "experimental"
+}
