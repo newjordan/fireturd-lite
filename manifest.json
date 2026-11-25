@@ -1,7 +1,7 @@
 {
   "kind": "fighter",
   "name": "fireturd_Lite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "jordan",
   "entry": "fighter.js",
   "profile": "profile.json",
@@ -10,7 +10,7 @@
   "provides": {
     "archetype": "aggressive",
     "metrics": ["totalMs"],
-    "knobSurfaces": []
+    "knobSurfaces": ["timePosture", "searchPosture"]
   },
   "status": "experimental"
 }
